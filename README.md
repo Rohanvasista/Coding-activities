@@ -49,6 +49,13 @@ For example we take "S": S will be the shortest palindrome string.
 If we take "xyz": zyxyz will be the shortest palindrome string
 So we need to add some characters to the given string or character and find out what will be the shortest palindrome string by using simple java program.
 
+<h5> Output </h5>
+
+Enter a String to find out shortest palindrome
+my name is vasista
+Shortest palindrome of my name is vasista is
+atsisav si eman ym name is vasista
+
 <h5> program 4 </h5>
 
 Write a simple code to identify given linked list is palindrome or not by using stack.
