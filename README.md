@@ -9,15 +9,10 @@ Using methods charAt() & length() of String class, write a program to print the 
 
 Enter a string : Hello friend
  : 1 
-H: 1
 d: 1 
 e: 2 
 f: 1
-i: 1
-l: 2
-n: 1
-o: 1
-r: 1
+(continued for all character in the string)
 
 
 <h5> Program 2 </h5>
@@ -46,5 +41,7 @@ ping — > 16
 ping — > 18
 —-pong 19
 ping — > 20
+
+<h5> program 3 </h5>
 
 </html>
