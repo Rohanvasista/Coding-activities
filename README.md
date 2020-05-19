@@ -8,7 +8,7 @@ Using methods charAt() & length() of String class, write a program to print the 
 <h5> Output: </h5>
 
 Enter a string : Hello friend
- : 1 
+-: 1 
 d: 1 
 e: 2 
 f: 1
