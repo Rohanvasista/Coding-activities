@@ -8,10 +8,15 @@ Using methods charAt() & length() of String class, write a program to print the 
 <h5> Output: </h5>
 
 Enter a string : Hello friend
+
 -: 1 
+
 d: 1 
-e: 2 
+
+e: 2
+
 f: 1
+
 (continued for all character in the string)
 
 
@@ -22,25 +27,45 @@ Write down a java program to print even and odd numbers series respectively from
 <h5> Output: </h5>
 
 —-pong 1
+
 ping — > 2
+
 —-pong 3
+
 ping — > 4
+
 —-pong 5
+
 ping — > 6
+
 —-pong 7
+
 ping — > 8
+
 —-pong 9
+
 ping — > 10
+
 —-pong 11
+
 ping — > 12
+
 —-pong 13
+
 ping — > 14
+
 —-pong 15
+
 ping — > 16
+
 —-pong 17
+
 ping — > 18
+
 —-pong 19
+
 ping — > 20
+
 
 <h5> program 3 </h5>
 
@@ -52,8 +77,11 @@ So we need to add some characters to the given string or character and find out 
 <h5> Output </h5>
 
 Enter a String to find out shortest palindrome
+
 my name is vasista
+
 Shortest palindrome of my name is vasista is
+
 atsisav si eman ym name is vasista
 
 <h5> program 4 </h5>
@@ -65,6 +93,7 @@ In each iteration, pop one stack element and compare with node value in respecti
 In case of all matches, its a palindrome. Any one element mismatch makes it not a palindrome.
 
 <h5> Output </h5>
+
 
 Linked list is a palindrome
 
