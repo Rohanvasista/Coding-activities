@@ -64,4 +64,8 @@ Once the traversal & copying is done, iterate through linked list from head node
 In each iteration, pop one stack element and compare with node value in respective iteration. It is expected to match stack popped value with node value.
 In case of all matches, its a palindrome. Any one element mismatch makes it not a palindrome.
 
+<h5> Output </h5>
+
+Linked list is a palindrome
+
 </html>
