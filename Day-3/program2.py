@@ -1,8 +1,21 @@
+problem statement : Write Python Program to Reverse a Given Number This is a Python Program to reverse a given number,
+problem Description The program takes a number and reverses it and store it in another variable and show it
 
-a=int(input("enter Digit :"))
-rev=0
-while(a > 0):
-    rem=a%10
-    rev=rev*10+rem
-    a=a//10
-print("Reversed number: ",rev)
+solution: 
+
+n = int(input("Enter the number\n"))
+m = 0
+while(n!=0):
+  rem = n%10
+  m = m*10 + rem
+  n = n//10
+print("The rever number is\n",m)
+
+
+    
+Output :
+    
+Enter the number
+3456
+The rever number is
+6543
