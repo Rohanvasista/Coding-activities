@@ -9,3 +9,11 @@ x = x ^ y;
 y = x ^ y;
 x = x ^ y;
 print ("After Swapping: x = ", x, " y =", y)
+
+
+Output:
+  
+x= 77
+y= 66
+Before Swapping: x =  77  y = 66
+After Swapping: x =  66  y = 77
