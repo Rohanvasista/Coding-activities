@@ -1,4 +1,7 @@
+problem statement : Python Program to Exchange the Values of Two Numbers using ^ (exclusive or operator)
 
+solution:
+  
 x=int(input("x= "))
 y=int(input("y= "))
 print ("Before Swapping: x = ", x, " y =", y)
