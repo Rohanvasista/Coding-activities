@@ -1,6 +1,9 @@
+Problem Statement :
+  
 #Python program to print all Prime #numbers in an Interval
 #Given two positive integer start and end. #The task is to write a Python program #toprint all Prime numbers in an Interval.
 
+Solution :
 
 start = int(input("Enter the first number\n"))
 end = int(input("Enter the last number\n"))
@@ -15,6 +18,7 @@ for i in range(start,end+1):
   
 
 Output:
+  
 Enter the first number
 2
 Enter the last number
