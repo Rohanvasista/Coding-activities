@@ -1,9 +1,12 @@
+Problem Statement :
+
 Write a C program to construct a singly linked list by removing duplicate elements in the sorted linked list
 Description:
 Take a sorted list and traverse the list. Compare the current node element with next adjacent node. 
 If it is same then delete second element, if not retain. Finally print the resulting list.
+ 
+Solution :
 
-Program:
 #include <stdio.h>
 #include <stdlib.h>
  
@@ -123,7 +126,7 @@ void release(struct node **head)
     }
 }
 
+Output:
 
-Sample Output:
 Given list {1,2,2,3,3,3,4}
 Resulting list{1,2,3,4}       
