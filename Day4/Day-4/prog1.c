@@ -1,6 +1,9 @@
+Problem Statement :
+
 Create the SLL, and then Reverse the Link in SLL until Head becomes NULL. Each Time Reversing the Link, Head must be moved to next immediate node
 
-Program:
+Solution :
+
 #include <stdio.h>
 #include <stdlib.h>
  
@@ -121,6 +124,7 @@ void release(struct node **head)
 }
 
 output:
+
 Enter data into the list
 Enter number: 5
 Do you wish to continue [1/0]:1
