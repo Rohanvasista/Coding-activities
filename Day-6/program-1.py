@@ -1,6 +1,9 @@
+Problem Statement :
+  
 #Python program to print positive numbers #in a list
 #Given a list of numbers, write a Python #program to print all positive numbers in #given list.
-
+solution :
+  
 a = []
 n = int(input("Enter the size of list\n"))
 print("Enter the list elements\n")
