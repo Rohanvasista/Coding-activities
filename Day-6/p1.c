@@ -1,3 +1,9 @@
+Problem statement :
+
+c program to generate first n Triangular numbers
+
+solution :
+
 include <stdio.h>
 void triangular_series(int n)
 {
@@ -11,7 +17,7 @@ int main()
 {
 
 int n ;
-printf("Enter value for n");
+printf("Enter value for n\n");
 
 scanf("%d",&n);
 
@@ -19,3 +25,8 @@ triangular_series(n);
 
 return 0;
 }
+
+output :
+
+Enter value of n
+1 3 6 10 15 21 28 36 45 55
