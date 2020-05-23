@@ -1,7 +1,10 @@
+Problem statement :
+
 #Python program to count positive and #negative numbers in a list
 #Given a list of numbers, write a Python #program to count positive and negative #numbers in a List.
 
-
+solution :
+  
 a = []
 n = int(input("Enter the size of list\n"))
 print("Enter the list elements\n")
@@ -21,6 +24,7 @@ print("Negative integers = ",c)
  
 
 Output:
+  
 Enter the size of list
 5
 Enter the list elements
