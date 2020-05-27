@@ -1,6 +1,10 @@
+problem Statement :
+    
 #Python program to check if a number is palindrome
 
 
+soolution:
+    
 num = int(input("Enter the number\n"))
 n =num
 rev=  0
@@ -15,6 +19,7 @@ else:
 
 
 Output:
+    
 Enter the number
 787
 The number is palindrome
