@@ -1,3 +1,7 @@
+problem statement: This c++ program prints last remaining element in array.
+
+ solution :
+
 #include <iostream> 
 using namespace std; 
 
@@ -22,3 +26,7 @@ int main()
     cout << find_value(a, n, k); 
     return 0; 
 }
+
+output :
+
+1
