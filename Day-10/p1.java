@@ -1,6 +1,14 @@
 
-We are given 3 strings: str1, str2, and str3. Str3 is said to be a shuffle of str1 and str2 if it can be formed by interleaving the characters of str1 and str2 in a way that maintains the left to right ordering of the characters from each string. For example, given str1="abc" and str2="def", str3="dabecf" is a valid shuffle since it preserves the character ordering of the two strings. So, given these 3 strings write a function that detects whether str3 is a valid shuffle of str1 and str2.
+problem statement :
 
+We are given 3 strings: str1, str2, and str3. Str3 is said to be a shuffle of str1 and str2 if it can be formed by interleaving 
+the characters of str1 and str2 in a way that maintains the left to right ordering of the characters from each string 
+For example, given str1="abc" and str2="def", str3="dabecf" is a valid shuffle since it preserves the character ordering of the
+two strings. So, given these 3 strings write a function that detects whether str3 is a valid shuffle of str1 and str2.
+
+
+    
+solution:
 
 public class Main{ 
     static boolean isInterleaved (String A, String B, String C)  
@@ -42,3 +50,9 @@ public class Main{
             System.out.printf("%s is not interleaved of %s and %s", C, A, B); 
     } 
 }
+
+
+output :
+
+str1 str2 str3 str4 is not interleaved of str1 str2 and str3
+
