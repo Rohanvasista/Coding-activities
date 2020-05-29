@@ -1,5 +1,11 @@
+
+problem statement :
+
+Write a Java Program to find longest substring without repeating characters in a string
+
+solution:
+
 import java.util.LinkedHashMap;
-Write a Java Program to find longest substring without repeating characters in a string.
 public class Main {
  static void longestSubstring(String inputString) {
   char[] arr1 = inputString.toCharArray();
@@ -31,3 +37,10 @@ public class Main {
   longestSubstring("pickoutthelongestsubstring");
  }
 }
+
+output :
+The longest substring  : [u,b,s,t,r,i,n,g]
+The longest Substring Length : 8
+
+
+
