@@ -1,5 +1,9 @@
 
+problem statement :
+
 Write a Java Program to check whether the given number is Armstrong number or not
+
+solution:
 
 public class Armstrong {
 
@@ -22,3 +26,5 @@ public class Armstrong {
             System.out.println(number + " is not an Armstrong number.");
     }
 }
+output:
+371 is an Armstrong number.
