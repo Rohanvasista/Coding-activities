@@ -1,5 +1,8 @@
+problem statement :
+
 c program to solve a system of linear congruences by applying the chinese Remainder theorem
 
+solution :
 
 #include <stdio.h>
 int mul_inv(int a, int b)
@@ -38,3 +41,7 @@ int main(void)
 	printf("%d\n", chinese_remainder(n, a, sizeof(n)/sizeof(n[0])));
 	return 0;
 }
+
+output :
+
+23
