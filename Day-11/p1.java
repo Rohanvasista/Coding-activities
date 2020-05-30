@@ -2,6 +2,9 @@ problem statement :
 
 write a java program to Count number of trailing zeros in product of array
 
+
+solution :
+
 import java.util.*; 
 import java.lang.*; 
 public class Main 
@@ -39,3 +42,11 @@ public class Main
 		System.out.println(countZeroso(a, n)); 
 	} 
 }
+
+output :
+n=
+5
+array elements
+23 45 67 89 23
+output	
+1
