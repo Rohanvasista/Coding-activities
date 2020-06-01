@@ -1,5 +1,8 @@
-#include <stdio.h>
+problem statement:c program to find leaders in an array
 
+
+solution:
+#include <stdio.h>
 int main()
 {
     int i,test_cases,arr[100],max[100],j=0;
@@ -21,3 +24,17 @@ int main()
         printf("%d ",max[j]);
     return 0;
 }
+
+Input:
+3
+6
+16 17 4 3 5 2
+5
+1 2 3 4 0
+5
+7 4 5 7 3
+
+Output:
+17 5 2
+4 0
+7 7 3
