@@ -1,5 +1,5 @@
 problem statement :
-Python Program for cube sum of first n natural numbers
+Python Program to cube sum of first n natural numbers
 
 solution :
 def sumOfSeries(n): 
