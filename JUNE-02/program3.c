@@ -29,3 +29,6 @@ int main(int argv, char** args)
 
     return 0; 
 }
+
+output:
+Number of inversions are 3
