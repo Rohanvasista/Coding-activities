@@ -184,3 +184,7 @@ class LinkedList {
 
     } 
 }
+
+output:
+Linked List after removing loop :
+50 20 15 4 10
