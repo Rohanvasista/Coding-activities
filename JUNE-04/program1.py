@@ -1,5 +1,5 @@
-"""Python program to combine strings
-DESCRIPTION:
+problem satement:Python program to combine strings
+description:
 Take two strings, return a string of the form short+long+short, with the shorter string on the outsides and the longer string on the inside. The strings will not be the same length, but they may be empty (length 0)."""
 
 
@@ -24,4 +24,3 @@ Hi
 Enter the 2nd string
 Hello
 'HiHelloHi'
-© 2020 GitHub, Inc.
