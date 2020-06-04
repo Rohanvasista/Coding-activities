@@ -20,10 +20,9 @@ for key,val in a.items():
 Output:
 
 Enter the string
-python
-h 1
+rohan
 n 1
+h 1
+a 1
 o 1
-p 1
-t 1
-y 1
+r 1
