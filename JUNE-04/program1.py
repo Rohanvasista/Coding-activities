@@ -20,7 +20,7 @@ combined_str(s1,s2)
 Output:
 
 Enter the 1st string
-Hi
+rohan
 Enter the 2nd string
-Hello
-'HiHelloHi'
+vasista
+'rohanvasistarohan'
