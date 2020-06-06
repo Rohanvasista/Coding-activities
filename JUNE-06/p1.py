@@ -1,5 +1,7 @@
-# The program takes a string and removes the nth index character from the non-empty string
+problem statement:
+The program takes a string and removes the nth index character from the non-empty string
 
+solution:
 s=str(input("enter the string"))
 n=int(input("enter the nth index to remove"))
 first_part = s[:n] 
