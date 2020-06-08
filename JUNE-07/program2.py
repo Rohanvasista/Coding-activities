@@ -1,7 +1,11 @@
-"""Python program to square each odd number in the list
-Description:
-Take a list of numbers and square each odd number in the list. Print output as comma separated sequence."""
+problem statement:
+problem statement:
+Python program to square each odd number in the list
 
+Description:
+Take a list of numbers and square each odd number in the list. Print output as comma separated sequence.
+
+solution:
 l = []
 n = int(input("Enter the size of the list\n"))
 for i in range(n):
