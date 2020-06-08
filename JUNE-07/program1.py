@@ -1,7 +1,10 @@
+problem statement:
 Python program to count number of strings
+
 Description:
 Write a Python program to count the number of strings, provided string length is 2 or more and the first and last character are same from a given list of strings."""
 
+solution:
 
 l = []
 c = 0
@@ -16,6 +19,7 @@ for i in l:
 print("The number of strings 1st and last character same\n",c)
 
 Output:
+
 Enter the number of elements
 3
 Enter the elements
