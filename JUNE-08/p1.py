@@ -1,14 +1,14 @@
-#Python Program to Copy the Contents of One File into Another
+problem statement:
+Python Program to Copy the Contents of One File into Another
 
+solution:
 with open("test.txt") as f:
     with open("out.txt", "w") as f1:
         for line in f:
             f1.write(line)
 print("successful done")
 
-output
-
-
+output:
 new.txt:
 hello,how r you
 this is a python program
