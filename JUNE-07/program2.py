@@ -1,4 +1,4 @@
-problem statement:
+
 problem statement:
 Python program to square each odd number in the list
 
