@@ -1,6 +1,8 @@
-"""Python program to find number of even and odd numbers"""
+problem statement:
+Python program to find number of even and odd numbers
 
 
+solution:
 tuple = (1,2,3,4,5,6,7)
 c,c1=0,0
 for i in tuple:
