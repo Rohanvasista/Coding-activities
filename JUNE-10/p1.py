@@ -1,6 +1,7 @@
-"""Python program to find length of list using recursion"""
+problem statement:
+Python program to find length of list using recursion
 
-
+solution:
 def length(l):
     if l == []:
       return 0
