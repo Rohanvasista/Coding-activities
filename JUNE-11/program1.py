@@ -1,5 +1,5 @@
 problem statement:
-Python program to check whether the given number is fibonacci or not"""
+Python program to check whether the given number is fibonacci or not
 
 
 solution:
