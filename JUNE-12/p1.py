@@ -1,5 +1,5 @@
 problem statement:
-Python program to find product of two arrays and count number of zeros in that array if any"""
+Python program to find product of two arrays and count number of zeros in that array if any
 
 
 solution:
