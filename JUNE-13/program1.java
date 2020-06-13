@@ -28,3 +28,6 @@ public class Main
             System.out.println("Given matrix is not a sparse matrix");    
     }    
 }
+
+output:
+Given matrix is a sparse matrix
