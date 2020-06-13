@@ -9,3 +9,8 @@ for i in range(65,70):
         print(chr(k),end=" ")
         k=k+1
     print()
+    
+output:
+C D E
+D E F G
+E F G H I
