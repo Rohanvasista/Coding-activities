@@ -1,10 +1,7 @@
 problem statement:
 C Program to implement the Binary Description 
-Having the function BinaryReversal(str) take the str parameter being passed,
-which will be a positive integer, take its binary representation, reverse that
-string of bits, and then finally return the new reversed string in decimal form.
- 
 
+ 
 
 solution:
 #include <stdio.h>
@@ -25,3 +22,7 @@ int main ()
 	printf ("\nThe reversed resultant = %d\n", rev_bits);
 	return 0;
 }
+
+output:
+Enter the number:213
+The reversed resultant = 171
