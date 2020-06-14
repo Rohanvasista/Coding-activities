@@ -2,12 +2,8 @@ problem statement:
 Java program to remove specific characters in the String
 
 
-
-
 solution:
 import java.util.Scanner;
-
-
 public class Main {
     
     public static void main(String[] args)
@@ -15,7 +11,7 @@ public class Main {
         String originalstring="Learning never stops";
         System.out.println("Original string is >>  "+ originalstring);
         System.out.println("");
-        System.out.println("Please enter unwanted characters as String");
+        System.out.println("Please enter unwanted characters as Str");
         System.out.println("");
         System.out.println("");
         Scanner in =new Scanner(System.in);
@@ -55,3 +51,10 @@ public class Main {
         return new String(orgchararray,0,end);
     }
 }
+
+
+output:
+Original string is >> Learning never stops
+Please enter unwanted characters as Str
+estp
+output is >> Larning nvr o
